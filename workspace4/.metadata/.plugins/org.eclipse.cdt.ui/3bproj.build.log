@@ -1,0 +1,21 @@
+19:37:49 **** Incremental Build of configuration Debug for project 3bproj ****
+make all 
+'Building file: ../src/trig.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/trig.o" -IX:/workspace4/lab3b/export/lab3b/sw/lab3b/standalone_domain/bspinclude/include -mlittle-endian -mxl-barrel-shift -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/trig.d" -MT"src/trig.o" -o "src/trig.o" "../src/trig.c"
+'Finished building: ../src/trig.c'
+' '
+'Building target: 3bproj.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LX:/workspace4/lab3b/export/lab3b/sw/lab3b/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mno-xl-soft-div -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "3bproj.elf"  ./src/complex.o ./src/fft.o ./src/main.o ./src/note.o ./src/platform.o ./src/stream_grabber.o ./src/trig.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: 3bproj.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size 3bproj.elf  |tee "3bproj.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29760	    416	  48424	  78600	  13308	3bproj.elf
+'Finished building: 3bproj.elf.size'
+' '
+
+19:37:50 Build Finished (took 1s.145ms)
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Lab_3A" location="X:/workspace3/Lab_3A" platform="X:/workspace3/ECE153A_Lab3/export/ECE153A_Lab3/ECE153A_Lab3.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="Lab_3A_system" sysConfig="ECE153A_Lab3" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="4c65dd094a23cf4e66d055cf2e55aece">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1633105442">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.785635135" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,2254 @@
+TRACE::2025-11-10.16:18:35::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:35::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:35::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:35::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:35::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:35::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened new HwDB with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2025-11-10.16:18:36::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3"
+		}]
+}
+TRACE::2025-11-10.16:18:36::SCWPlatform::Boot application domains not present, creating them
+TRACE::2025-11-10.16:18:36::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2025-11-10.16:18:36::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3"
+		}]
+}
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWDomain::checking for install qemu data   : 
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:36::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-11-10.16:18:36::SCWMssOS::No sw design opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::mss does not exists at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::Creating sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::Adding the swdes entry, created swdb X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::updating the scw layer changes to swdes at   X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:36::SCWMssOS::Writing mss at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:37::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-10.16:18:37::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2025-11-10.16:18:37::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2025-11-10.16:18:37::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-10.16:18:37::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2025-11-10.16:18:49::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:49::SCWMssOS::Adding the swdes entry, mss present, able to open swdb X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-10.16:18:49::SCWMssOS::Writing the mss file completed X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:49::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:49::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:49::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:49::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:49::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:49::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:50::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:50::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:50::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:50::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:50::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:50::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2025-11-10.16:18:50::SCWPlatform::Started generating the artifacts platform ECE153A_Lab3
+TRACE::2025-11-10.16:18:50::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-11-10.16:18:50::SCWPlatform::Started generating the artifacts for system configuration ECE153A_Lab3
+LOG::2025-11-10.16:18:50::SCWSystem::Checking the domain standalone_domain
+LOG::2025-11-10.16:18:50::SCWSystem::Not a boot domain 
+LOG::2025-11-10.16:18:50::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-11-10.16:18:50::SCWDomain::Generating domain artifcats
+TRACE::2025-11-10.16:18:50::SCWMssOS::Generating standalone artifcats
+TRACE::2025-11-10.16:18:50::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:50::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:50::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-10.16:18:50::SCWMssOS::Mss edits present, copying mssfile into export location X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-11-10.16:18:50::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-11-10.16:18:50::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2025-11-10.16:18:50::SCWMssOS::skipping the bsp build ... 
+TRACE::2025-11-10.16:18:50::SCWMssOS::Copying to export directory.
+TRACE::2025-11-10.16:18:50::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-11-10.16:18:50::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-11-10.16:18:50::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-11-10.16:18:50::SCWSystem::Completed Processing the sysconfig ECE153A_Lab3
+LOG::2025-11-10.16:18:50::SCWPlatform::Completed generating the artifacts for system configuration ECE153A_Lab3
+TRACE::2025-11-10.16:18:50::SCWPlatform::Started preparing the platform 
+TRACE::2025-11-10.16:18:50::SCWSystem::Writing the bif file for system config ECE153A_Lab3
+TRACE::2025-11-10.16:18:50::SCWSystem::dir created 
+TRACE::2025-11-10.16:18:50::SCWSystem::Writing the bif 
+TRACE::2025-11-10.16:18:50::SCWPlatform::Started writing the spfm file 
+TRACE::2025-11-10.16:18:50::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-11-10.16:18:50::SCWPlatform::Completed generating the platform
+TRACE::2025-11-10.16:18:50::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:18:50::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:18:50::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:50::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:50::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:51::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:51::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:51::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:51::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:51::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:51::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:51::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:51::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:51::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:51::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:51::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-11-10.16:18:51::SCWPlatform::updated the xpfm file.
+TRACE::2025-11-10.16:18:51::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:51::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:51::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:52::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:52::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-11-10.16:18:52::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:52::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:18:52::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:52::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:53::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:53::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:53::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:53::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:53::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:53::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-11-10.16:18:53::SCWPlatform::Clearing the existing platform
+TRACE::2025-11-10.16:18:53::SCWSystem::Clearing the existing sysconfig
+TRACE::2025-11-10.16:18:53::SCWMssOS::Removing the swdes entry for  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:53::SCWSystem::Clearing the domains completed.
+TRACE::2025-11-10.16:18:53::SCWPlatform::Clearing the opened hw db.
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Platform location is X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Removing the HwDB with name X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:53::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-10.16:18:54::SCWPlatform::Opened new HwDB with name system_wrapper_1
+TRACE::2025-11-10.16:18:54::SCWReader::Active system found as  ECE153A_Lab3
+TRACE::2025-11-10.16:18:54::SCWReader::Handling sysconfig ECE153A_Lab3
+TRACE::2025-11-10.16:18:54::SCWDomain::checking for install qemu data   : 
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:55::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-11-10.16:18:55::SCWMssOS::No sw design opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::mss exists loading the mss file  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::Opened the sw design from mss  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::Adding the swdes entry X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-10.16:18:55::SCWMssOS::updating the scw layer about changes
+TRACE::2025-11-10.16:18:55::SCWMssOS::Opened the sw design.  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:18:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:18:55::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:18:55::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-11-10.16:18:55::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:18:55::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:18:55::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:18:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:18:55::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:18:55::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:18:55::SCWReader::No isolation master present  
+LOG::2025-11-10.16:51:56::SCWPlatform::Started generating the artifacts platform ECE153A_Lab3
+TRACE::2025-11-10.16:51:56::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-11-10.16:51:56::SCWPlatform::Started generating the artifacts for system configuration ECE153A_Lab3
+LOG::2025-11-10.16:51:56::SCWSystem::Checking the domain standalone_domain
+LOG::2025-11-10.16:51:56::SCWSystem::Not a boot domain 
+LOG::2025-11-10.16:51:56::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-11-10.16:51:56::SCWDomain::Generating domain artifcats
+TRACE::2025-11-10.16:51:56::SCWMssOS::Generating standalone artifcats
+TRACE::2025-11-10.16:51:56::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-11-10.16:51:56::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:51:56::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:51:56::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:51:56::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:51:56::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:51:56::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:51:56::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:51:56::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:51:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:51:56::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:51:56::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:51:56::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-10.16:51:56::SCWMssOS::Mss edits present, copying mssfile into export location X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:51:56::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-11-10.16:51:56::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-11-10.16:51:56::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2025-11-10.16:51:56::SCWMssOS::doing bsp build ... 
+TRACE::2025-11-10.16:51:56::SCWMssOS::System Command Ran  X: & cd  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp & make 
+TRACE::2025-11-10.16:51:56::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.16:51:56::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.16:51:56::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.16:51:56::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.16:51:56::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.16:51:56::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.16:51:56::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-10.16:51:56::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-10.16:51:56::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-10.16:51:56::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-10.16:51:56::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2025-11-10.16:51:56::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-
+TRACE::2025-11-10.16:51:56::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:56::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2025-11-10.16:51:56::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2025-11-10.16:51:57::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-10.16:51:57::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2025-11-10.16:51:57::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2025-11-10.16:51:57::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.16:51:58::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.16:51:58::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.16:51:58::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.16:51:58::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.16:51:58::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.16:51:58::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2025-11-10.16:51:58::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunc
+TRACE::2025-11-10.16:51:58::SCWMssOS::tion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2025-11-10.16:51:58::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffuncti
+TRACE::2025-11-10.16:51:58::SCWMssOS::on-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2025-11-10.16:51:58::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2025-11-10.16:51:58::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-10.16:51:58::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-10.16:51:58::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-10.16:51:58::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-10.16:51:58::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-10.16:51:58::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.16:52:00::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2025-11-10.16:52:00::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2025-11-10.16:52:00::SCWMssOS::make --no-print-directory archive
+
+TRACE::2025-11-10.16:52:00::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2025-11-10.16:52:00::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_
+TRACE::2025-11-10.16:52:00::SCWMssOS::testio.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xspi_g.
+TRACE::2025-11-10.16:52:00::SCWMssOS::o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xspi_sinit.o microblaze_0/lib/x
+TRACE::2025-11-10.16:52:00::SCWMssOS::il_misc_psreset_api.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/
+TRACE::2025-11-10.16:52:00::SCWMssOS::lib/inbyte.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_scrub.o mic
+TRACE::2025-11-10.16:52:00::SCWMssOS::roblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o
+TRACE::2025-11-10.16:52:00::SCWMssOS:: microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xuartlite_sinit.
+TRACE::2025-11-10.16:52:00::SCWMssOS::o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xspi_stats.o microblaze
+TRACE::2025-11-10.16:52:00::SCWMssOS::_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sl
+TRACE::2025-11-10.16:52:00::SCWMssOS::eepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xtmrctr_
+TRACE::2025-11-10.16:52:00::SCWMssOS::l.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/xgpio_intr.o micro
+TRACE::2025-11-10.16:52:00::SCWMssOS::blaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze
+TRACE::2025-11-10.16:52:00::SCWMssOS::_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/
+TRACE::2025-11-10.16:52:00::SCWMssOS::lib/xgpio_sinit.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_self
+TRACE::2025-11-10.16:52:00::SCWMssOS::test.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xio.o microb
+TRACE::2025-11-10.16:52:00::SCWMssOS::laze_0/lib/xtmrctr_g.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalid
+TRACE::2025-11-10.16:52:00::SCWMssOS::ate_icache_range.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microbl
+TRACE::2025-11-10.16:52:00::SCWMssOS::aze_invalidate_icache.o microblaze_0/lib/xspi_options.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microblaze_0/li
+TRACE::2025-11-10.16:52:00::SCWMssOS::b/xintc_options.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/
+TRACE::2025-11-10.16:52:00::SCWMssOS::xintc_intr.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o mi
+TRACE::2025-11-10.16:52:00::SCWMssOS::croblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microbla
+TRACE::2025-11-10.16:52:00::SCWMssOS::ze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_ex
+TRACE::2025-11-10.16:52:00::SCWMssOS::tra.o microblaze_0/lib/xspi.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xtmrctr_sta
+TRACE::2025-11-10.16:52:00::SCWMssOS::ts.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2025-11-10.16:52:00::SCWMssOS::/xgpio_selftest.o
+
+TRACE::2025-11-10.16:52:00::SCWMssOS::'Finished building libraries'
+
+TRACE::2025-11-10.16:52:05::SCWMssOS::Copying to export directory.
+TRACE::2025-11-10.16:52:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-11-10.16:52:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-11-10.16:52:10::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-11-10.16:52:10::SCWSystem::Completed Processing the sysconfig ECE153A_Lab3
+LOG::2025-11-10.16:52:10::SCWPlatform::Completed generating the artifacts for system configuration ECE153A_Lab3
+TRACE::2025-11-10.16:52:10::SCWPlatform::Started preparing the platform 
+TRACE::2025-11-10.16:52:10::SCWSystem::Writing the bif file for system config ECE153A_Lab3
+TRACE::2025-11-10.16:52:10::SCWSystem::dir created 
+TRACE::2025-11-10.16:52:10::SCWSystem::Writing the bif 
+TRACE::2025-11-10.16:52:10::SCWPlatform::Started writing the spfm file 
+TRACE::2025-11-10.16:52:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-11-10.16:52:10::SCWPlatform::Completed generating the platform
+TRACE::2025-11-10.16:52:10::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:52:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.16:52:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.16:52:10::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.16:52:10::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:10::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:10::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:10::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:52:10::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:10::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:52:10::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:52:10::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:52:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:52:10::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:52:10::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:52:10::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:52:10::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-11-10.16:52:10::SCWPlatform::updated the xpfm file.
+TRACE::2025-11-10.16:52:11::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:11::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:11::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:11::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.16:52:11::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.16:52:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.16:52:11::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2025-11-10.16:52:11::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2025-11-10.16:52:11::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.16:52:11::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.16:52:11::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.16:52:11::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:18::SCWPlatform::Clearing the existing platform
+TRACE::2025-11-10.17:28:18::SCWSystem::Clearing the existing sysconfig
+TRACE::2025-11-10.17:28:18::SCWMssOS::Removing the swdes entry for  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:18::SCWSystem::Clearing the domains completed.
+TRACE::2025-11-10.17:28:18::SCWPlatform::Clearing the opened hw db.
+TRACE::2025-11-10.17:28:18::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform:: Platform location is X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:18::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:18::SCWPlatform::Removing the HwDB with name X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:18::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:18::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened new HwDB with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWReader::Active system found as  ECE153A_Lab3
+TRACE::2025-11-10.17:28:20::SCWReader::Handling sysconfig ECE153A_Lab3
+TRACE::2025-11-10.17:28:20::SCWDomain::checking for install qemu data   : 
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:20::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-11-10.17:28:20::SCWMssOS::No sw design opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::mss exists loading the mss file  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::Opened the sw design from mss  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::Adding the swdes entry X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-10.17:28:20::SCWMssOS::updating the scw layer about changes
+TRACE::2025-11-10.17:28:20::SCWMssOS::Opened the sw design.  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.17:28:20::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.17:28:20::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.17:28:20::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-11-10.17:28:20::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:20::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:20::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:20::SCWReader::No isolation master present  
+TRACE::2025-11-10.17:28:24::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:24::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:24::SCWPlatform:: Platform location is X:/workspace3/ECE153A_Lab3/tempdsa
+TRACE::2025-11-10.17:28:24::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:24::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:25::SCWMssOS::Doing hw sync for the mss in domain: standalone_domain
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:25::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_4
+TRACE::2025-11-10.17:28:25::SCWPlatform::Opened existing hwdb system_wrapper_4
+TRACE::2025-11-10.17:28:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:25::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:25::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:25::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/tempdsa
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/tempdsa/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:25::SCWPlatform::update - Opened existing hwdb system_wrapper_5
+TRACE::2025-11-10.17:28:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:25::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:25::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-10.17:28:25::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-10.17:28:25::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.17:28:25::SCWMssOS::Completed hw sync for the mss in domain: standalone_domain
+TRACE::2025-11-10.17:28:25::SCWMssOS::Removing the swdes entry for  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:25::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:25::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:25::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-10.17:28:26::SCWPlatform::Opened new HwDB with name system_wrapper_6
+TRACE::2025-11-10.17:28:26::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:26::SCWMssOS::Adding the swdes entry, mss present, able to open swdb X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-10.17:28:26::SCWMssOS::Writing the mss file completed X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:26::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.17:28:26::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:26::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:26::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:26::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:26::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:26::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:26::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_6
+TRACE::2025-11-10.17:28:26::SCWPlatform::Opened existing hwdb system_wrapper_6
+TRACE::2025-11-10.17:28:26::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:26::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:26::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:26::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:26::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f11",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2025-11-10.17:28:35::SCWPlatform::Started generating the artifacts platform ECE153A_Lab3
+TRACE::2025-11-10.17:28:35::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-11-10.17:28:36::SCWPlatform::Started generating the artifacts for system configuration ECE153A_Lab3
+LOG::2025-11-10.17:28:36::SCWSystem::Checking the domain standalone_domain
+LOG::2025-11-10.17:28:36::SCWSystem::Not a boot domain 
+LOG::2025-11-10.17:28:36::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-11-10.17:28:36::SCWDomain::Generating domain artifcats
+TRACE::2025-11-10.17:28:36::SCWMssOS::Generating standalone artifcats
+TRACE::2025-11-10.17:28:36::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-11-10.17:28:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_6
+TRACE::2025-11-10.17:28:36::SCWPlatform::Opened existing hwdb system_wrapper_6
+TRACE::2025-11-10.17:28:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:36::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:36::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:36::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:36::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-10.17:28:36::SCWMssOS::Mss edits present, copying mssfile into export location X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:39::SCWMssOS::bsp generated is stale removing and regenerating. 
+TRACE::2025-11-10.17:28:48::SCWMssOS::doing bsp build ... 
+TRACE::2025-11-10.17:28:48::SCWMssOS::System Command Ran  X: & cd  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp & make 
+TRACE::2025-11-10.17:28:49::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.17:28:49::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.17:28:49::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.17:28:49::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.17:28:49::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-10.17:28:49::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-10.17:28:49::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-10.17:28:49::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-10.17:28:49::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-10.17:28:49::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-10.17:28:49::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2025-11-10.17:28:49::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-
+TRACE::2025-11-10.17:28:49::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2025-11-10.17:28:49::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2025-11-10.17:28:49::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-10.17:28:49::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2025-11-10.17:28:49::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2025-11-10.17:28:49::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.17:28:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.17:28:50::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.17:28:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.17:28:50::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-10.17:28:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-10.17:28:50::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2025-11-10.17:28:50::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunc
+TRACE::2025-11-10.17:28:50::SCWMssOS::tion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2025-11-10.17:28:50::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffuncti
+TRACE::2025-11-10.17:28:50::SCWMssOS::on-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2025-11-10.17:28:50::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2025-11-10.17:28:50::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-10.17:28:50::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-10.17:28:50::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-10.17:28:50::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-10.17:28:50::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-10.17:28:50::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-10.17:28:52::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2025-11-10.17:28:52::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2025-11-10.17:28:52::SCWMssOS::make --no-print-directory archive
+
+TRACE::2025-11-10.17:28:52::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2025-11-10.17:28:52::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_
+TRACE::2025-11-10.17:28:52::SCWMssOS::testio.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xspi_g.
+TRACE::2025-11-10.17:28:52::SCWMssOS::o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xspi_sinit.o microblaze_0/lib/x
+TRACE::2025-11-10.17:28:52::SCWMssOS::il_misc_psreset_api.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/
+TRACE::2025-11-10.17:28:52::SCWMssOS::lib/inbyte.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_scrub.o mic
+TRACE::2025-11-10.17:28:52::SCWMssOS::roblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o
+TRACE::2025-11-10.17:28:52::SCWMssOS:: microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xuartlite_sinit.
+TRACE::2025-11-10.17:28:52::SCWMssOS::o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xspi_stats.o microblaze
+TRACE::2025-11-10.17:28:52::SCWMssOS::_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sl
+TRACE::2025-11-10.17:28:52::SCWMssOS::eepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xtmrctr_
+TRACE::2025-11-10.17:28:52::SCWMssOS::l.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/xgpio_intr.o micro
+TRACE::2025-11-10.17:28:52::SCWMssOS::blaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze
+TRACE::2025-11-10.17:28:52::SCWMssOS::_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/
+TRACE::2025-11-10.17:28:52::SCWMssOS::lib/xgpio_sinit.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_self
+TRACE::2025-11-10.17:28:52::SCWMssOS::test.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xio.o microb
+TRACE::2025-11-10.17:28:52::SCWMssOS::laze_0/lib/xtmrctr_g.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalid
+TRACE::2025-11-10.17:28:52::SCWMssOS::ate_icache_range.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microbl
+TRACE::2025-11-10.17:28:52::SCWMssOS::aze_invalidate_icache.o microblaze_0/lib/xspi_options.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microblaze_0/li
+TRACE::2025-11-10.17:28:52::SCWMssOS::b/xintc_options.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/
+TRACE::2025-11-10.17:28:52::SCWMssOS::xintc_intr.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o mi
+TRACE::2025-11-10.17:28:52::SCWMssOS::croblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microbla
+TRACE::2025-11-10.17:28:52::SCWMssOS::ze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_ex
+TRACE::2025-11-10.17:28:52::SCWMssOS::tra.o microblaze_0/lib/xspi.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xtmrctr_sta
+TRACE::2025-11-10.17:28:52::SCWMssOS::ts.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2025-11-10.17:28:52::SCWMssOS::/xgpio_selftest.o
+
+TRACE::2025-11-10.17:28:53::SCWMssOS::'Finished building libraries'
+
+TRACE::2025-11-10.17:28:56::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-11-10.17:28:56::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-11-10.17:28:56::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-11-10.17:28:56::SCWSystem::Completed Processing the sysconfig ECE153A_Lab3
+LOG::2025-11-10.17:28:56::SCWPlatform::Completed generating the artifacts for system configuration ECE153A_Lab3
+TRACE::2025-11-10.17:28:56::SCWPlatform::Started preparing the platform 
+TRACE::2025-11-10.17:28:56::SCWSystem::Writing the bif file for system config ECE153A_Lab3
+TRACE::2025-11-10.17:28:56::SCWSystem::dir created 
+TRACE::2025-11-10.17:28:56::SCWSystem::Writing the bif 
+TRACE::2025-11-10.17:28:57::SCWPlatform::Started writing the spfm file 
+TRACE::2025-11-10.17:28:57::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-11-10.17:28:57::SCWPlatform::Completed generating the platform
+TRACE::2025-11-10.17:28:57::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:57::SCWMssOS::Adding the swdes entry, mss present, able to open swdb X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-10.17:28:57::SCWMssOS::Writing the mss file completed X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:57::SCWMssOS::Commit changes completed.
+TRACE::2025-11-10.17:28:57::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:57::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:57::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:57::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:57::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:57::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_6
+TRACE::2025-11-10.17:28:57::SCWPlatform::Opened existing hwdb system_wrapper_6
+TRACE::2025-11-10.17:28:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:57::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:57::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:57::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:57::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-11-10.17:28:57::SCWPlatform::updated the xpfm file.
+TRACE::2025-11-10.17:28:58::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:58::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:58::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:58::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-10.17:28:58::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-10.17:28:58::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-10.17:28:58::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_6
+TRACE::2025-11-10.17:28:58::SCWPlatform::Opened existing hwdb system_wrapper_6
+TRACE::2025-11-10.17:28:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-10.17:28:58::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-10.17:28:58::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-10.17:28:58::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:39::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:39::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:39::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:39::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:39::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:39::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-12.13:31:41::SCWPlatform::Opened new HwDB with name system_wrapper_0
+TRACE::2025-11-12.13:31:41::SCWReader::Active system found as  ECE153A_Lab3
+TRACE::2025-11-12.13:31:41::SCWReader::Handling sysconfig ECE153A_Lab3
+TRACE::2025-11-12.13:31:41::SCWDomain::checking for install qemu data   : 
+TRACE::2025-11-12.13:31:41::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:41::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:41::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:41::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:41::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:41::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:42::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-11-12.13:31:42::SCWMssOS::No sw design opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::mss exists loading the mss file  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::Opened the sw design from mss  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::Adding the swdes entry X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-12.13:31:42::SCWMssOS::updating the scw layer about changes
+TRACE::2025-11-12.13:31:42::SCWMssOS::Opened the sw design.  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-12.13:31:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-12.13:31:42::SCWMssOS::Commit changes completed.
+TRACE::2025-11-12.13:31:42::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-11-12.13:31:42::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:42::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:42::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-12.13:31:42::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:42::SCWReader::No isolation master present  
+LOG::2025-11-12.13:31:42::SCWPlatform::Started generating the artifacts platform ECE153A_Lab3
+TRACE::2025-11-12.13:31:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-11-12.13:31:45::SCWPlatform::Started generating the artifacts for system configuration ECE153A_Lab3
+LOG::2025-11-12.13:31:45::SCWSystem::Checking the domain standalone_domain
+LOG::2025-11-12.13:31:45::SCWSystem::Not a boot domain 
+LOG::2025-11-12.13:31:45::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-11-12.13:31:45::SCWDomain::Generating domain artifcats
+TRACE::2025-11-12.13:31:45::SCWMssOS::Generating standalone artifcats
+TRACE::2025-11-12.13:31:45::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-11-12.13:31:45::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:45::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:45::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:45::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:31:45::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:31:45::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:31:45::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:31:45::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:31:45::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:31:45::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:45::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-12.13:31:45::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:45::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-12.13:31:45::SCWMssOS::Mss edits present, copying mssfile into export location X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:31:45::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-11-12.13:31:45::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-11-12.13:31:45::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2025-11-12.13:31:45::SCWMssOS::doing bsp build ... 
+TRACE::2025-11-12.13:31:45::SCWMssOS::System Command Ran  X: & cd  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp & make 
+TRACE::2025-11-12.13:31:45::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-11-12.13:31:45::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2025-11-12.13:31:45::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2025-11-12.13:31:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-12.13:31:45::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-12.13:31:46::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-12.13:31:46::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-12.13:31:46::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-12.13:31:46::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-12.13:31:46::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-12.13:31:46::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-12.13:31:46::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-12.13:31:46::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-12.13:31:46::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-12.13:31:46::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2025-11-12.13:31:46::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-
+TRACE::2025-11-12.13:31:46::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2025-11-12.13:31:46::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2025-11-12.13:31:46::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-12.13:31:46::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2025-11-12.13:31:46::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2025-11-12.13:31:46::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-12.13:31:48::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-12.13:31:48::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-12.13:31:48::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-12.13:31:48::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-12.13:31:48::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-12.13:31:48::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2025-11-12.13:31:48::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunc
+TRACE::2025-11-12.13:31:48::SCWMssOS::tion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2025-11-12.13:31:49::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffuncti
+TRACE::2025-11-12.13:31:49::SCWMssOS::on-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2025-11-12.13:31:49::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2025-11-12.13:31:49::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-12.13:31:49::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-12.13:31:49::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:49::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-12.13:31:49::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-12.13:31:49::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-12.13:31:51::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2025-11-12.13:31:51::SCWMssOS::make --no-print-directory archive
+
+TRACE::2025-11-12.13:31:51::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2025-11-12.13:31:51::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_
+TRACE::2025-11-12.13:31:51::SCWMssOS::testio.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/xspi_g.
+TRACE::2025-11-12.13:31:51::SCWMssOS::o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xspi_sinit.o microblaze_0/lib/x
+TRACE::2025-11-12.13:31:51::SCWMssOS::il_misc_psreset_api.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/
+TRACE::2025-11-12.13:31:51::SCWMssOS::lib/inbyte.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o microblaz
+TRACE::2025-11-12.13:31:51::SCWMssOS::e_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o mic
+TRACE::2025-11-12.13:31:51::SCWMssOS::roblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o mic
+TRACE::2025-11-12.13:31:51::SCWMssOS::roblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xil_mem.o microblaze
+TRACE::2025-11-12.13:31:51::SCWMssOS::_0/lib/xspi_stats.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xbram_
+TRACE::2025-11-12.13:31:51::SCWMssOS::intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xtmrctr_sin
+TRACE::2025-11-12.13:31:51::SCWMssOS::it.o microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib/outbyte.o micro
+TRACE::2025-11-12.13:31:51::SCWMssOS::blaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/microblaze_invalidate_dcache_range.o 
+TRACE::2025-11-12.13:31:51::SCWMssOS::microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/hw_exception_handler.o 
+TRACE::2025-11-12.13:31:51::SCWMssOS::microblaze_0/lib/xtmrctr.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/microblaze_upd
+TRACE::2025-11-12.13:31:51::SCWMssOS::ate_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_interrupts_g.o
+TRACE::2025-11-12.13:31:51::SCWMssOS:: microblaze_0/lib/xio.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xbram.o micro
+TRACE::2025-11-12.13:31:51::SCWMssOS::blaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/microblaze_init_dcache_ra
+TRACE::2025-11-12.13:31:51::SCWMssOS::nge.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/xspi_options.o microblaze_0/lib/errno.o microblaze_0/lib
+TRACE::2025-11-12.13:31:51::SCWMssOS::/xuartlite_l.o microblaze_0/lib/xintc_options.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib/microblaze_invalidate_cache
+TRACE::2025-11-12.13:31:51::SCWMssOS::_ext_range.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o mi
+TRACE::2025-11-12.13:31:51::SCWMssOS::croblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o microbla
+TRACE::2025-11-12.13:31:51::SCWMssOS::ze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xgpio_ex
+TRACE::2025-11-12.13:31:51::SCWMssOS::tra.o microblaze_0/lib/xspi.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xtmrctr_sta
+TRACE::2025-11-12.13:31:51::SCWMssOS::ts.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2025-11-12.13:31:51::SCWMssOS::/xgpio_selftest.o
+
+TRACE::2025-11-12.13:31:54::SCWMssOS::'Finished building libraries'
+
+TRACE::2025-11-12.13:32:03::SCWMssOS::Copying to export directory.
+TRACE::2025-11-12.13:32:15::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-11-12.13:32:15::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-11-12.13:32:15::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-11-12.13:32:15::SCWSystem::Completed Processing the sysconfig ECE153A_Lab3
+LOG::2025-11-12.13:32:15::SCWPlatform::Completed generating the artifacts for system configuration ECE153A_Lab3
+TRACE::2025-11-12.13:32:15::SCWPlatform::Started preparing the platform 
+TRACE::2025-11-12.13:32:15::SCWSystem::Writing the bif file for system config ECE153A_Lab3
+TRACE::2025-11-12.13:32:15::SCWSystem::dir created 
+TRACE::2025-11-12.13:32:15::SCWSystem::Writing the bif 
+TRACE::2025-11-12.13:32:15::SCWPlatform::Started writing the spfm file 
+TRACE::2025-11-12.13:32:15::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-11-12.13:32:15::SCWPlatform::Completed generating the platform
+TRACE::2025-11-12.13:32:15::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:32:15::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-12.13:32:15::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-12.13:32:15::SCWMssOS::Commit changes completed.
+TRACE::2025-11-12.13:32:15::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:16::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:16::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:16::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:32:16::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:16::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:32:16::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:32:16::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:32:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:32:16::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:32:16::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-12.13:32:16::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:32:16::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-11-12.13:32:16::SCWPlatform::updated the xpfm file.
+TRACE::2025-11-12.13:32:17::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:17::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:17::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:17::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-12.13:32:17::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-12.13:32:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-12.13:32:17::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2025-11-12.13:32:17::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2025-11-12.13:32:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-12.13:32:17::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-12.13:32:17::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-12.13:32:17::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:04::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:04::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:04::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:04::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:04::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:04::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:04::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-11-13.16:05:05::SCWPlatform::Opened new HwDB with name system_wrapper_25
+TRACE::2025-11-13.16:05:05::SCWReader::Active system found as  ECE153A_Lab3
+TRACE::2025-11-13.16:05:05::SCWReader::Handling sysconfig ECE153A_Lab3
+TRACE::2025-11-13.16:05:05::SCWDomain::checking for install qemu data   : 
+TRACE::2025-11-13.16:05:05::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:05::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:05::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:05::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:05::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:05::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:05::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:06::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-11-13.16:05:06::SCWMssOS::No sw design opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::mss exists loading the mss file  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::Opened the sw design from mss  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::Adding the swdes entry X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2025-11-13.16:05:06::SCWMssOS::updating the scw layer about changes
+TRACE::2025-11-13.16:05:06::SCWMssOS::Opened the sw design.  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-13.16:05:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-13.16:05:06::SCWMssOS::Commit changes completed.
+TRACE::2025-11-13.16:05:06::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2025-11-13.16:05:06::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:06::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-13.16:05:06::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:06::SCWReader::No isolation master present  
+TRACE::2025-11-13.16:05:07::SCWMssOS::cleaning the bsp 
+TRACE::2025-11-13.16:05:07::SCWMssOS::System Command Ran  X: & cd  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp & make clean 
+TRACE::2025-11-13.16:05:07::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s clean 
+
+TRACE::2025-11-13.16:05:08::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s clean 
+
+TRACE::2025-11-13.16:05:08::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2025-11-13.16:05:08::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s clean 
+
+TRACE::2025-11-13.16:05:09::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s clean 
+
+TRACE::2025-11-13.16:05:09::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s clean 
+
+TRACE::2025-11-13.16:05:11::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s clean 
+
+TRACE::2025-11-13.16:05:12::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2025-11-13.16:05:12::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2025-11-13.16:05:20::SCWPlatform::Started generating the artifacts platform ECE153A_Lab3
+TRACE::2025-11-13.16:05:20::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-11-13.16:05:20::SCWPlatform::Started generating the artifacts for system configuration ECE153A_Lab3
+LOG::2025-11-13.16:05:20::SCWSystem::Checking the domain standalone_domain
+LOG::2025-11-13.16:05:20::SCWSystem::Not a boot domain 
+LOG::2025-11-13.16:05:20::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2025-11-13.16:05:20::SCWDomain::Generating domain artifcats
+TRACE::2025-11-13.16:05:20::SCWMssOS::Generating standalone artifcats
+TRACE::2025-11-13.16:05:20::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-11-13.16:05:20::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:20::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:20::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:20::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:20::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:20::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:20::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:20::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:20::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:20::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:20::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:20::SCWMssOS::Completed writing the mss file at X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp
+TRACE::2025-11-13.16:05:20::SCWMssOS::Mss edits present, copying mssfile into export location X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:20::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-11-13.16:05:20::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-11-13.16:05:20::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2025-11-13.16:05:20::SCWMssOS::doing bsp build ... 
+TRACE::2025-11-13.16:05:20::SCWMssOS::System Command Ran  X: & cd  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp & make 
+TRACE::2025-11-13.16:05:20::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-13.16:05:20::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-13.16:05:20::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-13.16:05:20::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-13.16:05:20::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-11-13.16:05:20::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2025-11-13.16:05:20::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-13.16:05:20::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-13.16:05:20::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-13.16:05:20::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-13.16:05:20::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2025-11-13.16:05:20::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-
+TRACE::2025-11-13.16:05:20::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2025-11-13.16:05:20::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2025-11-13.16:05:20::SCWMssOS::function-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-13.16:05:20::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2025-11-13.16:05:20::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2025-11-13.16:05:21::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-13.16:05:21::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-13.16:05:21::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-13.16:05:21::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-13.16:05:21::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2025-11-13.16:05:21::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunct
+TRACE::2025-11-13.16:05:21::SCWMssOS::ion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2025-11-13.16:05:21::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffunc
+TRACE::2025-11-13.16:05:21::SCWMssOS::tion-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2025-11-13.16:05:21::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffuncti
+TRACE::2025-11-13.16:05:21::SCWMssOS::on-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2025-11-13.16:05:21::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2025-11-13.16:05:21::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2025-11-13.16:05:21::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ffun
+TRACE::2025-11-13.16:05:21::SCWMssOS::ction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-11-13.16:05:21::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-11-13.16:05:21::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2025-11-13.16:05:21::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-11-13.16:05:23::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2025-11-13.16:05:23::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2025-11-13.16:05:23::SCWMssOS::make --no-print-directory archive
+
+TRACE::2025-11-13.16:05:23::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/outbyte.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o m
+TRACE::2025-11-13.16:05:23::SCWMssOS::icroblaze_0/lib/microblaze_disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/_e
+TRACE::2025-11-13.16:05:23::SCWMssOS::xit.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/microblaze_flus
+TRACE::2025-11-13.16:05:23::SCWMssOS::h_dcache_range.o microblaze_0/lib/xspi_g.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/microblaze_update_dca
+TRACE::2025-11-13.16:05:23::SCWMssOS::che.o microblaze_0/lib/xspi_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/x
+TRACE::2025-11-13.16:05:23::SCWMssOS::tmrctr_l.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_util.o microblaze_0/lib/inbyte.o microblaze_0/lib/xbram_sinit.o mi
+TRACE::2025-11-13.16:05:23::SCWMssOS::croblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/pvr.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microb
+TRACE::2025-11-13.16:05:23::SCWMssOS::laze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/xi
+TRACE::2025-11-13.16:05:23::SCWMssOS::ntc_g.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xgpio_g.o microblaze_0/lib/microblaze_sleep.o microblaze_
+TRACE::2025-11-13.16:05:23::SCWMssOS::0/lib/xgpio_sinit.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xspi.o microblaze_0/lib/xtmrctr.o micr
+TRACE::2025-11-13.16:05:23::SCWMssOS::oblaze_0/lib/xintc_options.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/li
+TRACE::2025-11-13.16:05:23::SCWMssOS::b/xil_printf.o microblaze_0/lib/xio.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xspi_options.o microblaze_0/lib/xgpio_
+TRACE::2025-11-13.16:05:23::SCWMssOS::intr.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/microblaze_invalid
+TRACE::2025-11-13.16:05:23::SCWMssOS::ate_cache_ext.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/hw_exception_handler.o mi
+TRACE::2025-11-13.16:05:23::SCWMssOS::croblaze_0/lib/microblaze_selftest.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xil_t
+TRACE::2025-11-13.16:05:23::SCWMssOS::estcache.o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.
+TRACE::2025-11-13.16:05:23::SCWMssOS::o microblaze_0/lib/xil_mem.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xintc_l.
+TRACE::2025-11-13.16:05:23::SCWMssOS::o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_invalidate_icache_range.o micr
+TRACE::2025-11-13.16:05:23::SCWMssOS::oblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/li
+TRACE::2025-11-13.16:05:23::SCWMssOS::b/microblaze_invalidate_icache.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_stats.o mic
+TRACE::2025-11-13.16:05:23::SCWMssOS::roblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/xil_exception.o micr
+TRACE::2025-11-13.16:05:23::SCWMssOS::oblaze_0/lib/xgpio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/microblaze_flu
+TRACE::2025-11-13.16:05:23::SCWMssOS::sh_dcache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xspi_stats.o microblaze_0/lib/microb
+TRACE::2025-11-13.16:05:23::SCWMssOS::laze_enable_interrupts.o microblaze_0/lib/xgpio_extra.o microblaze_0/lib/xintc.o microblaze_0/lib/xbram.o microblaze_0/lib/xtmr
+TRACE::2025-11-13.16:05:24::SCWMssOS::ctr_stats.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaze_init_icache_range.o microbl
+TRACE::2025-11-13.16:05:24::SCWMssOS::aze_0/lib/fcntl.o
+
+TRACE::2025-11-13.16:05:24::SCWMssOS::'Finished building libraries'
+
+TRACE::2025-11-13.16:05:29::SCWMssOS::Copying to export directory.
+TRACE::2025-11-13.16:05:35::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-11-13.16:05:35::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-11-13.16:05:35::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2025-11-13.16:05:35::SCWSystem::Completed Processing the sysconfig ECE153A_Lab3
+LOG::2025-11-13.16:05:35::SCWPlatform::Completed generating the artifacts for system configuration ECE153A_Lab3
+TRACE::2025-11-13.16:05:35::SCWPlatform::Started preparing the platform 
+TRACE::2025-11-13.16:05:35::SCWSystem::Writing the bif file for system config ECE153A_Lab3
+TRACE::2025-11-13.16:05:35::SCWSystem::dir created 
+TRACE::2025-11-13.16:05:35::SCWSystem::Writing the bif 
+TRACE::2025-11-13.16:05:35::SCWPlatform::Started writing the spfm file 
+TRACE::2025-11-13.16:05:35::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-11-13.16:05:35::SCWPlatform::Completed generating the platform
+TRACE::2025-11-13.16:05:35::SCWMssOS::Saving the mss changes X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:35::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-11-13.16:05:35::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-11-13.16:05:35::SCWMssOS::Commit changes completed.
+TRACE::2025-11-13.16:05:35::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:35::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:35::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:35::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:35::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:35::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:35::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:35::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:35::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-13.16:05:35::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:35::SCWWriter::formatted JSON is {
+	"platformName":	"ECE153A_Lab3",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"ECE153A_Lab3",
+	"platHandOff":	"X:/LAB3A_ECE153A/3A/system_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"ECE153A_Lab3",
+	"systems":	[{
+			"systemName":	"ECE153A_Lab3",
+			"systemDesc":	"ECE153A_Lab3",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"ECE153A_Lab3",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"155d597cea108213c6c807a42724b7f1",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-11-13.16:05:35::SCWPlatform::updated the xpfm file.
+TRACE::2025-11-13.16:05:36::SCWPlatform::Trying to open the hw design at X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:36::SCWPlatform::DSA given X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:36::SCWPlatform::DSA absoulate path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:36::SCWPlatform::DSA directory X:/workspace3/ECE153A_Lab3/hw
+TRACE::2025-11-13.16:05:36::SCWPlatform:: Platform Path X:/workspace3/ECE153A_Lab3/hw/system_wrapper.xsa
+TRACE::2025-11-13.16:05:36::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2025-11-13.16:05:36::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_25
+TRACE::2025-11-13.16:05:36::SCWPlatform::Opened existing hwdb system_wrapper_25
+TRACE::2025-11-13.16:05:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-11-13.16:05:36::SCWMssOS::Checking the sw design at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2025-11-13.16:05:36::SCWMssOS::DEBUG:  swdes dump  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2025-11-13.16:05:36::SCWMssOS::Sw design exists and opened at  X:/workspace3/ECE153A_Lab3/microblaze_0/standalone_domain/bsp/system.mss
