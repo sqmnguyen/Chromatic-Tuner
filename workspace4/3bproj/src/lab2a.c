@@ -20,7 +20,7 @@
 #include "xspi.h"
 #include "xspi_l.h"
 #include "lcd.h"
-
+#include "ui.h"
 
 
 typedef struct Lab2ATag  {               //Lab2A State machine
@@ -36,8 +36,8 @@ typedef struct Lab2ATag  {               //Lab2A State machine
 /**********************************************************************/
 static QState Lab2A_initial (Lab2A *me);
 static QState Lab2A_on      (Lab2A *me);
-static QState Lab2A_stateA  (Lab2A *me);
-static QState Lab2A_stateB  (Lab2A *me);
+static QState stateHome  (Lab2A *me);
+static QState stateDebug  (Lab2A *me);
 
 
 /**********************************************************************/
@@ -77,95 +77,55 @@ QState Lab2A_on(Lab2A *me) {
 
 /* Create Lab2A_on state and do any initialization code if needed */
 /******************************************************************/
-// TODO: **WILL HAVE TO CHANGE THIS CODE AFTER UI**
-QState Lab2A_stateA(Lab2A *me) {
+// TODO: **WILL HAVE TO CHANGE THE ENCODER CODE AFTER HOME AND DEBUG R GOOD**
+QState stateHome(Lab2A *me) {
 	switch (Q_SIG(me)) {
 		case Q_ENTRY_SIG: {
-			xil_printf("Startup State A\n");
-			Clear_overlay();
-			Draw_overlay(me);
-			me->time = 0;
-			return Q_HANDLED();
-		}
-		
-		case ENCODER_UP: {
-			xil_printf("Encoder Up from State A\n");
-			if (!mute_flag){
-				me->volume+=4;
-				if(me->volume > 100) me->volume = 100;
-			}
-			Draw_Volume(me);
-			me->time = 0;
-			return Q_HANDLED();
-		}
+            UI_clearScreen();     // wipe LCD
+            UI_drawHome();        // draw front_home buffer
+            return Q_HANDLED();
+        }
 
-		case ENCODER_DOWN: {
-			xil_printf("Encoder Down from State A\n");
-			if (!mute_flag){
-				if(me->volume > 0){
-					me->volume-= 4;
-				}
-			}
-			Draw_Volume(me);
-			me->time = 0;
-			return Q_HANDLED();
-		}
+        case TICK_SIG: {
 
-		case ENCODER_CLICK:  {
-			xil_printf("reset volume\n");
-			mute_flag = !mute_flag;
-			Draw_Volume(me);
-			me->time = 0;
-			return Q_HANDLED();
-		}
-		case TICK_SIG: {
+            UI_drawHome();
+            return Q_HANDLED();
+        }
 
-			me->time++;
-			if(me->time == 3){
-				Clear_overlay(me);
-				me->time = 0;
-				xil_printf("Change state\n");
-				return Q_TRAN(&Lab2A_stateB);
+        case MODE_RIGHT: {
+            return Q_TRAN(&stateDebug);
+        }
+		// TODO: implement encoder 
+		// case ENCODER_UP: {
+		// 	xil_printf("Encoder Up from State A\n");
+		// 	if (!mute_flag){
+		// 		me->volume+=4;
+		// 		if(me->volume > 100) me->volume = 100;
+		// 	}
+		// 	Draw_Volume(me);
+		// 	me->time = 0;
+		// 	return Q_HANDLED();
+		// }
 
-			}
+		// case ENCODER_DOWN: {
+		// 	xil_printf("Encoder Down from State A\n");
+		// 	if (!mute_flag){
+		// 		if(me->volume > 0){
+		// 			me->volume-= 4;
+		// 		}
+		// 	}
+		// 	Draw_Volume(me);
+		// 	me->time = 0;
+		// 	return Q_HANDLED();
+		// }
 
-			return Q_HANDLED();
-
-		}
-		case MODE_UP: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:1", sizeof(me->label) - 1);
-			Draw_Mode(me);
-			me->time = 0;
-			return Q_HANDLED();
-
-		}
-		case MODE_DOWN: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label ,"Mode:3", sizeof(me->label) - 1);
-			Draw_Mode(me);
-			me->time = 0;
-			return Q_HANDLED();
-
-		}
-
-		case MODE_LEFT: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:4", sizeof(me->label) - 1);
-			Draw_Mode(me);
-			me->time = 0;
-			return Q_HANDLED();
-
-		}
-
-		case MODE_RIGHT: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:2", sizeof(me->label) - 1);
-			Draw_Mode(me);
-			me->time = 0;
-			return Q_HANDLED();
-
-		}
+		// case ENCODER_CLICK:  {
+		// 	xil_printf("reset volume\n");
+		// 	mute_flag = !mute_flag;
+		// 	Draw_Volume(me);
+		// 	me->time = 0;
+		// 	return Q_HANDLED();
+		// }
 
 	}
 
@@ -173,71 +133,53 @@ QState Lab2A_stateA(Lab2A *me) {
 
 }
 
-QState Lab2A_stateB(Lab2A *me) {
+QState stateDebug(Lab2A *me) {
 	switch (Q_SIG(me)) {
+
 		case Q_ENTRY_SIG: {
-			xil_printf("Startup State B\n");
-			return Q_TRAN(&Lab2A_stateA);
-		}
+            UI_clearScreen();
+            UI_drawDebug();       // draw FFT/spectrogram/log view
+            return Q_HANDLED();
+        }
+
+        case TICK_SIG: {
+            // update debug view (FFT bars, logs, etc)
+            UI_drawDebug();
+            return Q_HANDLED();
+        }
+
+        // go back to HOME
+        case MODE_LEFT: {
+            return Q_TRAN(&stateHome);
+        }
 		
-		case ENCODER_UP: {
-			xil_printf("Encoder Up from State B\n");
-			if(!mute_flag){
-				me->volume+=4;
-				if(me->volume > 100) me->volume = 100;
-			}
-			//Draw_overlay(me);
-			return Q_TRAN(&Lab2A_stateA);
-		}
+		// case ENCODER_UP: {
+		// 	xil_printf("Encoder Up from State B\n");
+		// 	if(!mute_flag){
+		// 		me->volume+=4;
+		// 		if(me->volume > 100) me->volume = 100;
+		// 	}
+		// 	//Draw_overlay(me);
+		// 	return Q_TRAN(&Lab2A_stateA);
+		// }
 
-		case ENCODER_DOWN: {
-			xil_printf("Encoder Down from State B\n");
-			if(!mute_flag){
-				if(me->volume > 0){
-					me->volume-=4;
-				}
-			}
-			//Draw_overlay(me);
-			return Q_TRAN(&Lab2A_stateA);
-		}
+		// case ENCODER_DOWN: {
+		// 	xil_printf("Encoder Down from State B\n");
+		// 	if(!mute_flag){
+		// 		if(me->volume > 0){
+		// 			me->volume-=4;
+		// 		}
+		// 	}
+		// 	//Draw_overlay(me);
+		// 	return Q_TRAN(&Lab2A_stateA);
+		// }
 
-		case ENCODER_CLICK:  {
-			xil_printf("Changing State\n");
-			mute_flag = !mute_flag;
-			// reset volume to 0
-			return Q_TRAN(&Lab2A_stateA);
-		}
-		case MODE_UP: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:1", sizeof(me->label) - 1);
-			//Draw_overlay(me);
-
-			return Q_TRAN(&Lab2A_stateA);
-
-		}
-
-		case MODE_DOWN: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:3", sizeof(me->label) - 1);
-			//Draw_overlay(me);
-			return Q_TRAN(&Lab2A_stateA);
-
-		}
-
-		case MODE_LEFT: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label, "Mode:4", sizeof(me->label) - 1);
-			//Draw_overlay(me);
-			return Q_TRAN(&Lab2A_stateA);
-
-		}
-
-		case MODE_RIGHT: {
-			memset(me->label, 0, sizeof(me->label));
-			strncpy(me->label , "Mode:2", sizeof(me->label) - 1);
-			//Draw_overlay(me);
-			return Q_TRAN(&Lab2A_stateA);
-		}
+		// case ENCODER_CLICK:  {
+		// 	xil_printf("Changing State\n");
+		// 	mute_flag = !mute_flag;
+		// 	// reset volume to 0
+		// 	return Q_TRAN(&Lab2A_stateA);
+		// }
 
 	}
 
