@@ -67,7 +67,7 @@ QState Lab2A_on(Lab2A *me) {
 			}
 			
 		case Q_INIT_SIG: {
-			return Q_TRAN(&Lab2A_stateA);
+			return Q_TRAN(&stateHome);
 			}
 	}
 	
