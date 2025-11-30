@@ -52,79 +52,8 @@ void Lab2A_ctor(void)  {
 }
 
 int mute_flag = 0;
-void Draw_overlay(Lab2A *me){
-	int x0 = 40, y0 = 250, x1 = 200, y1 = 280;
-	int barWidth = x1 - x0;
-	int fillWidth = (me->volume * barWidth) / 100;
-
-	// Outline
-	setColor(255, 255, 255);
-	fillRect(x0, y0, x1, y1);
-
-	// Filled portion
-	if(!mute_flag){
-		setColor(0, 255, 0);
-		fillRect(x0 + 1, y0 + 1, x0 + fillWidth - 1, y1 - 1);
-	}
-
-	// Text label
-	if (me->label[0] != '\0'){
-		setFont(SmallFont);
-		setColor(255, 255, 255);
-		setColorBg(0, 0, 0);
-		lcdPrint(me->label, 40, 220);
-	}
-}
-
-void Draw_Volume(Lab2A *me){
-	int x0 = 40, y0 = 250, x1 = 200, y1 = 280;
-	int barWidth = x1 - x0;
-	int fillWidth = (me->volume * barWidth) / 100;
-
-	if (mute_flag){
-		setColor(255, 255, 255);
-		fillRect(x0 - 1, y0 + 1, x1, y1 - 1);
-	}
-	else{
-		setColor(0, 255, 0);
-		fillRect(x0 + 1, y0 + 1, x0 + fillWidth - 1, y1 - 1);
-		setColor(255, 255, 255);
-		fillRect(x0 + fillWidth - 1, y0 + 1, x1, y1 - 1);
-	}
-
-}
-
-void Draw_Mode(Lab2A *me){
-	setFont(SmallFont);
-	setColor(255, 255, 255);
-	setColorBg(0, 0, 0);
-	lcdPrint(me->label, 40, 220);
-}
-void Clear_overlay(){
-	setColor(255, 0, 0);
-	fillRect(20, 220, 220, 300);
-
-	setColor(255, 255, 0);
-	for (int x0 = 20; x0 < 220; x0= x0+40){
-		for (int y0 = 220; y0 < 300; y0 = y0+40){
-			fillTriangle(x0, y0+40, x0+20, y0, x0+40, y0+40);
-		}
-	}
 
 
-}
-
-void Static_Background(){
-	setColor(255, 0, 0);
-	fillRect(20, 20, 220, 300);
-
-	setColor(255, 255, 0);
-	for (int x0 = 20; x0 < 220; x0= x0+40){
-		for (int y0 = 20; y0 < 300; y0 = y0+40){
-			fillTriangle(x0, y0+40, x0+20, y0, x0+40, y0+40);
-		}
-	}
-}
 QState Lab2A_initial(Lab2A *me) {
 	xil_printf("\n\rInitialization");
 	Static_Background();
@@ -148,7 +77,7 @@ QState Lab2A_on(Lab2A *me) {
 
 /* Create Lab2A_on state and do any initialization code if needed */
 /******************************************************************/
-
+// TODO: **WILL HAVE TO CHANGE THIS CODE AFTER UI**
 QState Lab2A_stateA(Lab2A *me) {
 	switch (Q_SIG(me)) {
 		case Q_ENTRY_SIG: {

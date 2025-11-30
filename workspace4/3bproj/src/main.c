@@ -46,6 +46,7 @@
 #include "stream_grabber.h"
 #include "xintc.h"
 #include "trig.h"
+#include "ui.h"
 #define RESET_VALUE 100000
 #define SAMPLES 512 // AXI4 Streaming Data FIFO has size 512
 #define M 9 //2^m=samples
@@ -139,9 +140,6 @@ void read_fsl_values(float* q, int n) {
     if (initialized) {
     	gap = (int)(seqf - seq_old - 1)/4;
         if (gap < 0) gap = 0;
-
-        // raw_gap is in *raw* samples, but we skip by 4
-        // so missing decimated units = raw_gap / 4
 
         if (gap > LONG_BUF_SIZE) gap = LONG_BUF_SIZE;
     } else {
@@ -258,7 +256,9 @@ int main() {
 
       frequency = fft(q, w, SAMPLES, M, sample_f/4);
       float coarseFrequency;
-
+      char noteBuf[4];
+      float cents;
+      HomeState s;
       if(frequency < 200){
 
     	  read_fsl_values(q1024,1024);
@@ -267,13 +267,18 @@ int main() {
     		  w1024[i] = 0;
     	  }
     	  coarseFrequency = fft(q1024,w1024,1024,10,sample_f/4);
-    	  findNote(coarseFrequency);
+          
+    	  HomeState s = findNote(coarseFrequency);
+          UI_updateHomeState(&s);
+
+
       }
       else{
-    	  findNote(frequency);
+          HomeState s = findNote(frequency);
+          UI_updateHomeState(&s);
       }
       int end = XTmrCtr_GetValue(&timer, 0);
-
+      
 
    }
 
